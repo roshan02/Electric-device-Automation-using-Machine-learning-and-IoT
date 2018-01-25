@@ -25,7 +25,7 @@ On Raspberry pi : Terminal > python <file_name>
 
 
 
-<img src="https://github.com/roshan02/Electricity--Automation-using-Machine-learning-and-IoT/blob/master/Raspberry-1.jpg" alt="alt text" width="400" height="250">
+<img src="https://github.com/roshan02/Electricity--Automation-using-Machine-learning-and-IoT/blob/master/Raspberry-1.jpg" alt="alt text" width="500" height="350">
 
 
 ![alt text](https://github.com/roshan02/Electricity--Automation-using-Machine-learning-and-IoT/blob/master/raspberry_pi_circuit_fig.jpg)

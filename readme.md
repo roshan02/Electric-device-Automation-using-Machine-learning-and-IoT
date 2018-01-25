@@ -22,9 +22,9 @@ cam3.py : This gives 1,2,3 (Categorisation done in above program ) as output whi
 		 > python cam2.py | ssh pi@10.42.0.202 "cat > output.txt" 
 
 On Raspberry pi : Terminal > python <file_name>
-![alt text]()
+![alt text](https://github.com/roshan02/Electricity--Automation-using-Machine-learning-and-IoT/blob/master/Raspberry-1.jpg)
 
-![alt text]()
+![alt text](https://github.com/roshan02/Electricity--Automation-using-Machine-learning-and-IoT/blob/master/raspberry_pi_circuit_fig.jpg)
 
 LED.py : You have to give input to this program using command line interface 
 LED1.py : This program reads the .txt file and then manipulate the lights placed on the breadboard 

@@ -22,7 +22,7 @@ cam3.py : This gives 1,2,3 (Categorisation done in above program ) as output whi
 		 > python cam2.py | ssh pi@10.42.0.202 "cat > output.txt" 
 
 On Raspberry pi : Terminal > python <file_name>
-![alt text](https://github.com/roshan02/Electricity--Automation-using-Machine-learning-and-IoT/blob/master/Raspberry-1.jpg)
+![alt text](https://github.com/roshan02/Electricity--Automation-using-Machine-learning-and-IoT/blob/master/Raspberry-1.jpg = 250*250)
 
 ![alt text](https://github.com/roshan02/Electricity--Automation-using-Machine-learning-and-IoT/blob/master/raspberry_pi_circuit_fig.jpg)
 
